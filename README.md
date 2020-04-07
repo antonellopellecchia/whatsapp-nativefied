@@ -9,7 +9,7 @@ Installing requirements on Debian:
 sudo apt install git npm
 ```
 
-#Installation
+# Installation
 
 ```
 sudo npm install nativefier -g
